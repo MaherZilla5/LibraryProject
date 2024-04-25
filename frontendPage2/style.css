@@ -1,0 +1,22 @@
+#header{
+    background-color: #800000;
+
+}
+#checkout{
+    color: white;
+}
+#checkoutBox{
+    width: 100%;
+    height: 100vh;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#itemBox{
+    background-color: white;
+    height: 500px;
+    width: 400px;
+    border: solid;
+
+}
